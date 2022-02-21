@@ -5,10 +5,10 @@ While designing some PCBs, I ended up creating a few footprints myself. A few ar
 This is a copy from the `BatteryHolder_Keystone_2460_1xAA` footprint. I just removed the extra holes there in the PCB which I found unnecessary.
 
 ## E-Byte-E220-xxxT22S (yet untested!)
-Footprint for the E-Byte E220-400T22S & E220-900T22S LoRa modules. The dimensions also fit the E220P-400T22S, but has a different pad numbering. Make sure to also check out the symbol I made for it: https://github.com/ezcGman/andys-kicad/symbols
+Footprint for the E-Byte E220-400T22S & E220-900T22S LoRa modules. The dimensions also fit the E220P-400T22S, but has a different pad numbering. Make sure to also check out the symbol I made for it: [Andy's Symbols](/symbols)
 
 ## E-Byte-E32-xxxM20S (yet untested!)
-Footprint for the E-Byte E32-400M20S & E32-900M20S LoRa modules. Make sure to also check out the symbol I made for it: https://github.com/ezcGman/andys-kicad/symbols
+Footprint for the E-Byte E32-400M20S & E32-900M20S LoRa modules. Make sure to also check out the symbol I made for it: [Andy's Symbols](/symbols)
 
 ## ESP-07-Socket
 This is a selfmade footprint. It's meant to hold an ESP-07 module on 2mm pin headers, so you can easily remove it again, if you want to. So simply stick it on and remove again :)
@@ -41,7 +41,7 @@ Again selfmade. A connector famously used on the M5 Stack Atom ESP32 modules
 
 ## LED_RotaryEncoder_CN_Futai_EC12-Switch_Vertical_H20mm
 This footprint is specifically made for these beautiful LED Rotary Encoder from CN Futai: https://www.aliexpress.com/item/1005002478550056.html
-I've also made a custom symbol for it which you can find here: https://github.com/ezcGman/andys-kicad/symbols
+I've also made a custom symbol for it which you can find here: [Andy's Symbols](/symbols)
 
 ## M5-Stack-Atomic-DIY-Proto-PCB-With-Mounting-Hole
 More selfmade. Bit similar to the ESP-07/ESP-12 socket, these are simply pin headers in the correct positions to stick an M5 Stack Atom on them, plus the mounting hole that sits below the Atom.

@@ -1,6 +1,6 @@
 (footprint "E-Byte-E220-xxxT22S" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620B9A6D)
+  (tedit 6216CE3B)
   (descr "LoRa Module, https://www.ebyte.com/en/product-view-news.html?id=1211")
   (tags "LoRa Module, E-Byte")
   (attr smd)
@@ -53,4 +53,9 @@
   (pad "24" smd rect (at 17.4 5.01 270) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 73aca0f5-d541-4633-9f83-5a514b7460a2))
   (pad "25" smd rect (at 17.4 3.74 270) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa5388ab-b6d5-41b0-9998-10dbe069abbc))
   (pad "26" smd rect (at 17.4 2.47 270) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp caa3d190-2507-42ed-82d9-f9743f59766d))
+  (model "${ANDYS_KICAD_FILES}/3d-models/E-Byte-E220-xxxT22S/E-Byte-E220-xxxT22S.wrl"
+    (offset (xyz 9.4 -13.5 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
 )

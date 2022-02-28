@@ -4,10 +4,10 @@ While designing some PCBs, I ended up creating a few footprints myself. A few ar
 ## BatteryHolder_Keystone_2460_1xAA-removed-holes
 This is a copy from the `BatteryHolder_Keystone_2460_1xAA` footprint. I just removed the extra holes there in the PCB which I found unnecessary.
 
-## E-Byte-E220-xxxT22S (yet untested!)
+## E-Byte-E220-xxxT22S
 Footprint for the E-Byte E220-400T22S & E220-900T22S LoRa modules. The dimensions also fit the E220P-400T22S, but has a different pad numbering. Make sure to also check out the symbol I made for it: [Andy's Symbols](/symbols)
 
-## E-Byte-E32-xxxM20S (yet untested!)
+## E-Byte-E32-xxxM20S
 Footprint for the E-Byte E32-400M20S & E32-900M20S LoRa modules. Make sure to also check out the symbol I made for it: [Andy's Symbols](/symbols)
 
 ## ESP-07-Socket

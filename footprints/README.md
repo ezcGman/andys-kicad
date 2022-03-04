@@ -42,6 +42,9 @@ A footprint I made myself (because I couldn't find a matching one in the KiCad l
 ## Grove-Connector-1x04-2.00mm-SMD-Horizontal
 Again selfmade. A connector famously used on the M5 Stack Atom ESP32 modules
 
+## HOPERF_RFM9XW_THT_Fixed_Size
+Copy of the RFM9XW footprint from the KiCad library, but I fixed the size: It was actually 0.2 or 0.3mm to wide!
+
 ## LED_RotaryEncoder_CN_Futai_EC12-Switch_Vertical_H20mm
 This footprint is specifically made for these beautiful LED Rotary Encoder from CN Futai: https://www.aliexpress.com/item/1005002478550056.html
 I've also made a custom symbol for it which you can find here: [Andy's Symbols](/symbols)

@@ -1,6 +1,6 @@
 (footprint "ESP32-DevKit-V1-DOIT-Less-SilkScreen" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620D8CCF)
+  (tedit 6212E08B)
   (descr "ESPWROOM32, ESP32, 30 GPIOs version")
   (attr smd)
   (fp_text reference "REF**" (at 0 10.47) (layer "F.SilkS")
@@ -76,7 +76,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model "${VL_PACKAGES3D}/esp32_devkit_v1_doit.3dshapes/esp32_devkit_v1_doit.step"
+  (model "${ANDYS_KICAD_FILES}/3d-models/ESP32-DevKit-V1-DOIT.step"
     (offset (xyz -12.7 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

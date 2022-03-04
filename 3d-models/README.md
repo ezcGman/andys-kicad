@@ -6,3 +6,6 @@ After doing my own footprints, I also wanted to have 3D modeld for them, to have
 
 ## E-Byte-E220-xxxT22S
 3D Model for the E-Byte E220-400T22S & E220-900T22S LoRa module: https://www.ebyte.com/en/product-view-news.html?id=1211. Please bear with me, as these two E-Byte modules are the first ever 3D models I ever made in FreeCad :)
+
+## ESP32-DevKit-V1-DOIT
+Copied from [Victor Lamoine](https://gitlab.com/VictorLamoine/kicad), because I made a copy of the footprint this 3D model belongs to and slightly changed it. So I also wanted to have the 3D model inside my KiCad library here. But again: Full credits on this go to Victor Lamoine.
